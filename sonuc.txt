@@ -1,0 +1,19 @@
+DOMAIN KONTROL SONUCLARI:
+
+02:09:21 03-14-2022
+www.google.com.tr     >>>  14 ms
+www.google.com        >>>  14 ms
+www.youtube.com       >>>  14 ms
+www.twitter.com       >>>  41 ms
+www.facebook.com      >>>  92 ms
+www.instagram.com     >>>  47 ms
+GoogleDNS             >>>  14 ms
+
+02:09:25 03-14-2022
+www.google.com.tr     >>>  0 ms
+www.google.com        >>>  16 ms
+www.youtube.com       >>>  16 ms
+www.twitter.com       >>>  47 ms
+www.facebook.com      >>>  49 ms
+www.instagram.com     >>>  47 ms
+GoogleDNS             >>>  13 ms
